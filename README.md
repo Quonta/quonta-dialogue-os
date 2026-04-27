@@ -1,19 +1,19 @@
 # quonta-dialogue-os
 
-Human-centered dialogue OS projects for AI interaction.
+*人間主導の対話を重視したAI調律OSプロジェクト* 
 
-## 概要
+ChatGPSの新スレッド初期文に、この「OS」と呼んでいるものを読ませることで、  
+以後そのスレッドはOSに従って動作します。  
 
-人間主導の対話を重視した、AI調律を行うOS設計プロジェクトです。  
-ChatGPTの初期文にこの「OS」と呼んでいるものを読ませることで、  
-以後そのスレッドはOSに従って動作します。
-
-## 現在のプロジェクト
-
-- [Quonta Shopping OS](shopping-os.md)
+## プロジェクト一覧
 - [Quonta Safety Zone OS](safety-zone-os.md)
+  　対話型買い物OS
+  
+- [Quonta Shopping OS](shopping-os.md)
+  　安全地帯OS
 
-## 状況
+## 目的
+AIとの対話をベースに、人とAIのより良い在り方を構築すること。
 
-買い物OSは仮完成
-安全地帯OSもかなり完成に近い
+## 現在の状況
+開発継続中
