@@ -1,6 +1,6 @@
 # Quonta Safety Zone OS
 
-人とAIの対話を整えるOS。
+AIの悪癖を調律し、人とAIの対話を整えるOS。
 
 ## 状況
 
