@@ -1,4 +1,5 @@
 # quonta-dialogue-os
+Human-centered dialogue OS project.  
 
 *人間主導の対話を重視したAI調律OSプロジェクト* 
 
