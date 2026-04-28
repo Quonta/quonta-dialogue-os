@@ -1,4 +1,6 @@
-# Quonta Shopping OS
+# Quonta Shopping OS  
+
+**対話型買い物OS**  
 
 *買い物に伴う迷いと選択を支援する対話OS。*  
 
