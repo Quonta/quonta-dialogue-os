@@ -2,6 +2,7 @@
 Human-centered dialogue OS project.   
 
 ChatGPT向け対話設計OSを研究・開発する個人プロジェクトです。  
+
 *人間主導の対話を重視したAI調律OSプロジェクト。*
 
 ChatGPTの新スレッド初期文に、この「OS」と呼んでいるものを読ませることで、  
