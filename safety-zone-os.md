@@ -1,5 +1,6 @@
-# Quonta Safety Zone OS
-
+# Quonta Safety Zone OS  
+  **安全地帯OS**
+  
 *AIの悪癖を調律し、人とAIの対話を整えるOS。*  
 
   AIを使っている時、勝手に推測されたり補完されたり、正論で殴られたりすることはよく起こります。  
