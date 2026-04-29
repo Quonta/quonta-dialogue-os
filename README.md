@@ -1,7 +1,7 @@
 # quonta-dialogue-os
 Human-centered dialogue OS project.   
 
-ChatGPT向け対話設計OSを研究・開発する個人プロジェクトです。  
+**ChatGPT向け対話設計OSを研究・開発する個人プロジェクトです。**  
 
 ChatGPTの新スレッド初期文に、この「OS」と呼んでいるものを読ませることで、  
 以後そのスレッドはOSに従って動作します。  
