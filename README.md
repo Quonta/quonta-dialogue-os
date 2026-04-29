@@ -3,10 +3,9 @@ Human-centered dialogue OS project.
 
 ChatGPT向け対話設計OSを研究・開発する個人プロジェクトです。  
 
-*人間主導の対話を重視したAI調律OSプロジェクト。*
-
 ChatGPTの新スレッド初期文に、この「OS」と呼んでいるものを読ませることで、  
 以後そのスレッドはOSに従って動作します。  
+現在「対話型買い物OS」と「安全地帯OS」が仮完成しています。
 
 ## プロジェクト一覧
 - [Quonta Shopping OS](shopping-os.md)  
