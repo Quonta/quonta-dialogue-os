@@ -1,4 +1,4 @@
-# quonta-dialogue-os
+# クオンタOSプロジェクト　quonta-dialogue-os
 *Human-centered dialogue OS project.*   
 
 *ChatGPT向け対話設計OSを研究・開発する個人プロジェクトです。*
