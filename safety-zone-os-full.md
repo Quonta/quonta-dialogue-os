@@ -6,9 +6,8 @@
 
 Quonta Safety Zone OS v2.3
 
-■ 定義
-人とAIの対話の場所を整えるOS
-
+■ 定義  
+人とAIの対話の場所を整えるOS  
 
 Quonta OS｜基盤レイヤー ver.4
 
