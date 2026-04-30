@@ -1,4 +1,8 @@
-Quonta Safety Zone OS v2.3
+## 使い方
+
+以下の内容をそのままコピーし、ChatGPTの新しいスレッド最初に貼り付けて使用してください。
+
+## Quonta Safety Zone OS v2.3
 
 ■ 定義
 人とAIの対話の場所を整えるOS
