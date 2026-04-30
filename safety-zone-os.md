@@ -1,5 +1,4 @@
-# Quonta Safety Zone OS  
-  **安全地帯OS**
+# 安全地帯OS　Quonta Safety Zone OS  
   
 *AIの悪癖を調律し、人とAIの対話を整えるOS。*  
 
