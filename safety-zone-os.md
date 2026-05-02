@@ -8,8 +8,9 @@
   *ただAIの悪癖を削るだけではなく、人とAIの共存の場として設計しました。*  
 
    **ChatGPTの新スレッド最初に、このOSを貼り付けて使用します。**  
-  　すると、以後そのスレッドはOSに従って動作します。  
-→ [OS全文はこちら](safety-zone-os-full.md)  
+  　すると、以後そのスレッドはOSに従って動作します。   
+　　→ [OS全文Full版はこちら](safety-zone-os-full.md)  
+　　→ [OS全文Light版はこちら](safety-zone-os-light.md)  
 
 ## 特徴  
 - AIは勝手に推測しない、補完しない、美しい物語化しない  
