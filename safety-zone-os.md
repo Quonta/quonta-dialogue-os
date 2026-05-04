@@ -9,7 +9,8 @@
 
    **ChatGPTの新スレッド最初に、このOSを貼り付けて使用します。**  
   　すると、以後そのスレッドはOSに従って動作します。   
-　　→ [OS全文はこちら](safety-zone-os-v2.4.md)  
+   
+　　　→OS全文はこちら [Quonta Safety Zone OS v2.4 Emerge](safety-zone-os-v2.4.md)  
 　
 
 ## 特徴  
