@@ -6,7 +6,7 @@
  　　　→ [旧v2.3 Full版](safety-zone-os-v2.3-full.md)  
 　　　 → [旧v2.3 Light版](safety-zone-os-v2.3-light.md)  
 
-## OS本文  
+## OS本文  Quonta Safety Zone OS v2.4 Emerge  
 
 Quonta Safety Zone OS v2.4 Emerge  
 
