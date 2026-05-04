@@ -2,9 +2,7 @@
 
 以下の内容をそのままコピーし、ChatGPTの新しいスレッド最初に貼り付けて使用してください。  
 ※稀に立ち上げに失敗することがあります。その際は新しいスレッドでまた、OSを読ませてください。  
-　　→ [概要ページに戻る](safety-zone-os.md)  
- 　　　→ [旧v2.3 Full版](safety-zone-os-v2.3-full.md)  
-　　　 → [旧v2.3 Light版](safety-zone-os-v2.3-light.md)  
+　　→ [概要ページに戻る](safety-zone-os.md)  　　　　　[旧v2.3 Full版](safety-zone-os-v2.3-full.md) 　　 [旧v2.3 Light版](safety-zone-os-v2.3-light.md)  
 
 ## OS本文　　Quonta Safety Zone OS v2.4 Emerge  
 
